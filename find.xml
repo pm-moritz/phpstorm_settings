@@ -16,7 +16,7 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
-    <mask>*.xml</mask>
     <mask>*.tpl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="exclude web/cache" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,12 +16,12 @@
     <mask>*.*</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
-    <mask>*.less</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*.js`@qac `</mask>
     <mask>*.js</mask>
     <mask>.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>

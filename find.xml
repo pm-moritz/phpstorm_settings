@@ -16,9 +16,9 @@
     <mask>*.js`@qac `</mask>
     <mask>.xml</mask>
     <mask>*.less</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.tpl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

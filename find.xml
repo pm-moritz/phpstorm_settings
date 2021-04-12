@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="exclude web/cache" />
-    <option name="defaultScopeName" value="exclude web/cache" />
-    <option name="SEARCH_SCOPE" value="exclude web/cache" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,10 +16,10 @@
     <mask>*.scss</mask>
     <mask>*.js`@qac `</mask>
     <mask>.xml</mask>
-    <mask>*.tpl</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>

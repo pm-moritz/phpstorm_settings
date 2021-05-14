@@ -3,6 +3,7 @@
     <option name="customScope" value="exclude web/cache" />
     <option name="defaultScopeName" value="exclude web/cache" />
     <option name="SEARCH_SCOPE" value="exclude web/cache" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,10 +16,10 @@
     <mask>*.scss</mask>
     <mask>*.js`@qac `</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>.xml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.less</mask>
   </component>
 </application>

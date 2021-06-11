@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="exclude web/cache" />
     <option name="defaultScopeName" value="exclude web/cache" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="exclude web/cache" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

@@ -6,5 +6,10 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="GotoTest" />
   <action id="JumpToLastWindow" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ServiceView.ShowServices" />
 </keymap>

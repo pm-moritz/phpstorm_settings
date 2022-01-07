@@ -16,13 +16,13 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".psh.yaml.override" type="PLAIN_TEXT" />
       <mapping pattern="env-local" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="pm-responsive" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="psh" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>

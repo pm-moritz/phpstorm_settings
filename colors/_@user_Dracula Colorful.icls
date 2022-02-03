@@ -3,7 +3,7 @@
     <property name="created">2022-02-03T18:58:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-02-03T19:38:34</property>
+    <property name="modified">2022-02-03T19:46:20</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
   <colors>
@@ -58,6 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="50fa7b" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
     <option name="VISUAL_INDENT_GUIDE" value="6b7090" />
+    <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c89f73" />
   </colors>
   <attributes>
@@ -598,7 +599,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="787e9f" />
+        <option name="FOREGROUND" value="5e5f66" />
         <option name="BACKGROUND" value="242632" />
       </value>
     </option>
@@ -1349,6 +1350,11 @@
       </value>
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="90909" />
+      </value>
+    </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>

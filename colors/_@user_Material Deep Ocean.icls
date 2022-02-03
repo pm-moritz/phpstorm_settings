@@ -4,7 +4,7 @@
     <property name="created">2021-12-07T10:17:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-02-03T12:43:14</property>
+    <property name="modified">2022-02-03T20:09:27</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1202,9 +1202,19 @@
         <option name="BACKGROUND" value="20221d" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="161813" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="BACKGROUND" value="172221" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="101b1a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
@@ -1212,9 +1222,19 @@
         <option name="BACKGROUND" value="20192a" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="1b1425" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="BACKGROUND" value="142029" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="f1b24" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1440,7 +1460,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1448,9 +1467,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2832,10 +2849,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b3f51" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

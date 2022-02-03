@@ -4,13 +4,12 @@
     <property name="created">2022-02-03T18:58:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-02-03T18:58:15</property>
+    <property name="modified">2022-02-03T19:38:34</property>
     <property name="originalScheme">Lotus Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -48,7 +47,7 @@
     <option name="FILESTATUS_addedOutside" value="ffcb6b" />
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
-    <option name="GUTTER_BACKGROUND" value="121212" />
+    <option name="GUTTER_BACKGROUND" value="90909" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="INFORMATION_HINT" value="222222" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
@@ -1056,27 +1055,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="28281b" />
+        <option name="BACKGROUND" value="1a1a0d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1f281f" />
+        <option name="BACKGROUND" value="111a11" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="281f28" />
+        <option name="BACKGROUND" value="1a111a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="1c2727" />
+        <option name="BACKGROUND" value="e1919" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="371a1a" />
+        <option name="BACKGROUND" value="2d1010" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -2793,7 +2792,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="181818" />
+        <option name="BACKGROUND" value="90909" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -24,7 +24,7 @@
     <mask>*.twig</mask>
     <mask>*.vue, *.twig</mask>
     <mask>*vue</mask>
-    <mask>*.php</mask>
     <mask>*.twig, *vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
